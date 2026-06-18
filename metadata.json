@@ -1,0 +1,6 @@
+{
+  "name": "圣焰科技官方网站",
+  "description": "圣焰科技(深圳)有限公司官方高保真双语微门户。展示公司在集成电路设计制造、核心工程和技术研究以及硬高可靠电子产品研发与技术经销方面的实力与产品线。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
